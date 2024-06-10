@@ -1,0 +1,2 @@
+# FeedbackAnalyzer
+The "Student Feedback Analyzer" project is a cutting-edge system designed to transform the way educational feedback is processed and utilized. Leveraging advanced technology, this system automates the conversion of PDF-based student feedback into actionable insights, conducts sentiment analysis, and facilitates effective communication between teachers and students. With a focus on data security, accuracy, and user-friendliness, this project aims to enhance the quality of education by bridging the gap between students and educators.
